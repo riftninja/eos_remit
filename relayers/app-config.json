@@ -1,0 +1,28 @@
+{
+  "base_url": "http://127.0.0.1:5423/",
+  "payment": {
+    "host": "api.paystack.co",
+    "secret_key": "sk_test_17afc46b828b8d3ab790fcd37b91387a31767159",
+    "public_key": "pk_test_936b7146ca8e01f4b1dc907f0c67986fbcc74d87",
+    "signature": "1nokUlQ8qUDlE8uMA"
+  },
+  "eos-config": {
+    "api": {
+      "host": "ropsten.infura.io",
+      "path": "/v3/fe974be996954cfe9b60984ed026b648"
+    },
+    "explorer": "http://149.28.130.31",
+    "node": {
+      "host": "149.28.130.31",
+      "port": 30303
+    }
+  },
+  "http.request": {
+    "host": "127.0.0.1",
+    "secure": true,
+    "path": "/",
+    "port": 80
+  },
+  "base_exchange_rate_usd": 360,
+  "base_exchange_rate_eur": 420
+}
